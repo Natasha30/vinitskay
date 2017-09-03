@@ -1,0 +1,23 @@
+.form {
+	color: white;
+	margin-left: 180px;
+	margin-bottom: 38px;
+    margin-top: 38px;
+}
+.raider {
+	margin-left: 180px;
+	margin-bottom: 135px;
+	box-shadow: none;
+	border-radius: 30px;
+	border: 0px;
+  	user-select: none; 
+  	height: 52px;
+  	width: 321px;
+	opacity: 100%;
+	font-size:14px;
+	font-family: Roboto;
+	color: #000000;
+	text-transform: uppercase;
+	letter-spacing: 1.05px;
+
+}

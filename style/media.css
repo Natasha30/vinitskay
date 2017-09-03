@@ -1,0 +1,30 @@
+@media screen and (min-width:480px) and (max-width:1200px) {
+	body {
+background-size: 1200px 100%;
+
+	}
+	div.pr, .form, .raider {
+		margin-left: 85px;
+	}
+.facebook {
+	width: 12px;
+	height: 25px;
+}
+.vk {
+	width: 25px;
+	height: 14px;
+}
+.youtube {
+	width: 25px;
+	height: 16px;
+}
+.instagram {
+	width: 25px;
+	height: 25px;
+}
+.social {
+	letter-spacing: 6px;
+	margin-top: -120px;
+	margin-right: -40px;
+}
+}
